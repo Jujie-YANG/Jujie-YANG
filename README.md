@@ -13,9 +13,10 @@
   <a href="#">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
+  <img src="https://komarev.com/ghpvc/?username=Jujie-YANG&style=flat-square&color=blue" alt="Views Counter"/>
 </div>
 
-<img src="https://komarev.com/ghpvc/?username=Jujie-YANG&style=flat-square&color=blue" alt="Views Counter"/>
+
 
 <h1>
   Hey there
