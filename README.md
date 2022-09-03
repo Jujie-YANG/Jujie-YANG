@@ -1,12 +1,16 @@
 <!-- Adding GIFs and Badges to Your GitHub Profile README -->
-<!-- <div id="header" align="right">
+<div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div> -->
+</div>
 
+<!-- Adding a Banner GIF and About Me Section -->
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width=50%/>
+</div>
 
 
 <!-- Say Hi -->
-<h1 align="center">
+<h1 style="font-family:'Georgia'" ,align="center">
   Hi there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px"/> &nbsp;&nbsp;I'm Jacky
 </h1>
@@ -28,14 +32,8 @@
   <img src="https://komarev.com/ghpvc/?username=Jujie-YANG&style=for-the-badge&color=blue" align="right" alt="Views Counter"/>
 </div>
 
-
-<!-- Adding a Banner GIF and About Me Section -->
-<!-- <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width=200%/>
-</div> -->
-
 ### :man_technologist: About Me :
-I'm a penultimate year Durham computer science student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="28"> from China.
+I'm a penultimate year Durham computer science student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="28"> from China :cn:.
 
 - :telescope: I’m working as a research assistant in **[Haii Lab](https://haii.webspace.durham.ac.uk/)**
 
