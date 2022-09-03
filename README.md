@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 <!-- Adding a Banner GIF and About Me Section -->
 <!-- emojis and corresponding shortcodes: https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md -->
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width=100%/>
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width=150%/>
 </div>
 
 ---
