@@ -38,13 +38,12 @@
 I'm a penultimate year Durham computer science student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="28"> from China.
 
 - :telescope: I’m working as a research assistant in **[Haii Lab](https://haii.webspace.durham.ac.uk/)**
-- :telescope: I’m working as a research assistant in <a href="https://haii.webspace.durham.ac.uk/" style="color:#3f3c3f"><b>Haii Lab</b></a>
 
 - :seedling: Exploring a self-supervised pre-training method for **Knowledge Tracing**
 
 - :thought_balloon: Hobby: playing [Go](https://en.wikipedia.org/wiki/Go_(game)), an abstract strategy board game. See my profile in [OGS](https://online-go.com/user/view/1197127).
 
-- :mailbox: How to reach me: [![Wechat Badge](https://img.shields.io/badge/wechat-5baa5d?style=plastic&logo=wechat&logoColor=white)](your-linkedin-url)
+- :mailbox: How to reach me: akajacky.yang@outlook.com
 
 
 <!-- Adding Languages and Tools -->
