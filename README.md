@@ -16,14 +16,14 @@
   <!-- <a href="#">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a> -->
-  <a href="https://space.bilibili.com/513038635">
-    <img src="https://img.shields.io/badge/wechat-6fcb71?style=for-the-badge&logo=wechat&logoColor=white" alt="Wechat Badge"/>
+  <a href="https://github.com/Jujie-YANG/Jujie-YANG/blob/main/Wechat_QRcode.JPG">
+    <img src="https://img.shields.io/badge/wechat-5baa5d?style=for-the-badge&logo=wechat&logoColor=white" alt="Wechat Badge"/>
   </a>
   <a href="https://space.bilibili.com/513038635">
     <img src="https://img.shields.io/badge/Bilibili-informational?style=for-the-badge&logo=Bilibili&logoColor=white" alt="Bilibili Badge"/>
   </a>
   <a href="https://www.instagram.com/yang.jujie.1/">
-    <img src="https://img.shields.io/badge/Instagram-Ea76ea?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram Badge"/>
+    <img src="https://img.shields.io/badge/Instagram-Bb5cc5?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
   <img src="https://komarev.com/ghpvc/?username=Jujie-YANG&style=for-the-badge&color=blue" align="right" alt="Views Counter"/>
 </div>
@@ -38,12 +38,13 @@
 I'm a penultimate year Durham computer science student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="28"> from China.
 
 - :telescope: I’m working as a research assistant in **[Haii Lab](https://haii.webspace.durham.ac.uk/)**
+- :telescope: I’m working as a research assistant in <a href="https://haii.webspace.durham.ac.uk/" style="color:#3f3c3f"><b>Haii Lab</b></a>
 
 - :seedling: Exploring a self-supervised pre-training method for **Knowledge Tracing**
 
 - :thought_balloon: Hobby: playing [Go](https://en.wikipedia.org/wiki/Go_(game)), an abstract strategy board game. See my profile in [OGS](https://online-go.com/user/view/1197127).
 
-- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+- :mailbox: How to reach me: [![Wechat Badge](https://img.shields.io/badge/wechat-5baa5d?style=plastic&logo=wechat&logoColor=white)](your-linkedin-url)
 
 
 <!-- Adding Languages and Tools -->
