@@ -3,6 +3,15 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
+
+
+<!-- Say Hi -->
+<h1>
+  Hi there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px"/>
+</h1>
+
+<!-- Badges -->
 <div id="badges">
   <a href="#">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -13,32 +22,23 @@
   <a href="#">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=Jujie-YANG&style=flat-square&color=blue" alt="Views Counter"/>
+  <img src="https://komarev.com/ghpvc/?username=Jujie-YANG&style=for-the-badge&color=blue" align="right" alt="Views Counter"/>
 </div>
-
-
-
-<h1>
-  Hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
 
 
 <!-- Adding a Banner GIF and About Me Section -->
-<div align="center">
+<!-- <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width=200%/>
-</div>
-
----
+</div> -->
 
 ### :man_technologist: About Me :
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from China.
+I'm a penultimate year Durham computer science student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from China.
 
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- :telescope: I’m working as a research assistant in **[Haii Lab](https://haii.webspace.durham.ac.uk/)**
 
-- :seedling: Exploring Technical Content Writing.
+- :seedling: Exploring a self-supervised pre-training method for **Knowledge Tracing**
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- :zap: Hobby: playing [Go](https://en.wikipedia.org/wiki/Go_(game)), an abstract strategy board game. See my profile in [OGS](https://online-go.com/user/view/1197127).
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
 
