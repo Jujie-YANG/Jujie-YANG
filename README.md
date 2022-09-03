@@ -6,7 +6,7 @@
 
 
 <!-- Say Hi -->
-<h1 align="center">
+<h1>
   Hi there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px"/> &nbsp;&nbsp;I'm Jacky
 </h1>
@@ -24,8 +24,8 @@
   </a>
   <a href="https://www.instagram.com/yang.jujie.1/">
     <img src="https://img.shields.io/badge/Instagram-Bb5cc5?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram Badge"/>
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=Jujie-YANG&style=for-the-badge&color=blue" align="right" alt="Views Counter"/>
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://komarev.com/ghpvc/?username=Jujie-YANG&style=for-the-badge&color=blue" alt="Views Counter"/>
 </div>
 
 
