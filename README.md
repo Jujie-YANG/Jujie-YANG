@@ -1,6 +1,6 @@
 <!-- Adding GIFs and Badges to Your GitHub Profile README -->
 <div id="header" align="center">
-  <img src="https://media3.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif?cid=ecf05e471gzagrpp7cj989z4k8gvqcdq7vw9821srh0ra9vc&rid=giphy.gif&ct=s" width=100/>
+  <img src="https://media3.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif?cid=ecf05e471gzagrpp7cj989z4k8gvqcdq7vw9821srh0ra9vc&rid=giphy.gif&ct=s" width="100"/>
 </div>
 
 <!-- Adding a Banner GIF and About Me Section -->
