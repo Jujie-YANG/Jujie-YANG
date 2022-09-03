@@ -84,4 +84,3 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Jujie-YANG&theme=vue&hide_border=%E7%9C%9F%E7%9A%84)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jujie-YANG&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
