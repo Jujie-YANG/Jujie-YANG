@@ -26,3 +26,5 @@ Here is an excellent start-up blog to teach you [how to create an impressive Git
     - The first open-source project that offers **GitHub stats** is [GitHub Streak Stats](https://github.com/DenverCoder1/github-readme-streak-stats); We can also use the [Streak Stats Website](http://github-readme-streak-stats.herokuapp.com/demo/) to generate the URL.
 
     - The next open-source project that provides some more GitHub stats of a user is [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats) by Anurag Hazra. This project provides many stats]; For customization details, refer to the [GitHub Readme Stats repository](https://github.com/anuraghazra/github-readme-stats).
+
+    - [display the top languages of a user](https://github.com/anuraghazra/github-readme-stats)
