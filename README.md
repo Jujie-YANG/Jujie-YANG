@@ -1,5 +1,3 @@
-<!-- ### Hi there 👋 -->
-
 <!--
 **Jujie-YANG/Jujie-YANG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -35,7 +33,7 @@ Here are some ideas to get you started:
 <img src="https://komarev.com/ghpvc/?username=Jujie-YANG&style=flat-square&color=blue" alt="Views Counter"/>
 
 <h1>
-  hey there
+  Hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
@@ -61,8 +59,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 
 <!-- Adding Languages and Tools -->
----
-
 ### :hammer_and_wrench: Languages and Tools :
 <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
@@ -78,9 +74,3 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
     <img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" title="Markdown" alt="Markdown" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
 </div>
-
-<!-- Adding GitHub Stats -->
----
-
-### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Jujie-YANG&theme=vue&hide_border=%E7%9C%9F%E7%9A%84)](https://git.io/streak-stats)
