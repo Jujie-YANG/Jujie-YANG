@@ -1,6 +1,6 @@
 <!-- Adding GIFs and Badges to Your GitHub Profile README -->
 <div id="header" align="center">
-  <img src="./shake_head.gif" width="200px"/>
+  <img src="./src/shake_head.gif" width="200px"/>
 </div>
 
 <!-- Adding a Banner GIF and About Me Section -->
@@ -20,7 +20,7 @@
   <!-- <a href="#">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a> -->
-  <a href="https://github.com/Jujie-YANG/Jujie-YANG/blob/main/Wechat_QRcode.JPG">
+  <a href="./src/Wechat_QRcode.jpg">
     <img src="https://img.shields.io/badge/wechat-5baa5d?style=for-the-badge&logo=wechat&logoColor=white" alt="Wechat Badge"/>
   </a>
   <a href="https://space.bilibili.com/513038635">
