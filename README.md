@@ -1,5 +1,5 @@
 <!-- Adding GIFs and Badges to Your GitHub Profile README -->
-<div id="header" align="center" style="max-height:130px;overflow:hidden;">
+<div id="header" align="center">
   <img src="./shake_head.gif" height="130px"/>
 </div>
 
