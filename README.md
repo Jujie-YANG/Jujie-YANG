@@ -3,12 +3,6 @@
   <img src="./src/shake_head.gif" width="200px"/>
 </div>
 
-<!-- Adding a Banner GIF and About Me Section -->
-<!-- <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width=1000 height=300/>
-</div> -->
-
-
 <!-- Say Hi -->
 <h1 style="font-family:'Georgia'", align="center">
   Hi there
@@ -17,9 +11,6 @@
 
 <!-- Badges -->
 <div id="badges">
-  <!-- <a href="#">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a> -->
   <a href="https://github.com/Jujie-YANG/Jujie-YANG/blob/main/src/Wechat_QRcode.JPG">
     <img src="https://img.shields.io/badge/wechat-5baa5d?style=for-the-badge&logo=wechat&logoColor=white" alt="Wechat Badge"/>
   </a>
@@ -32,6 +23,8 @@
   <img src="https://komarev.com/ghpvc/?username=Jujie-YANG&style=for-the-badge&color=blue" align="right" alt="Views Counter"/>
 </div>
 
+
+<!-- Profile self introduction -->
 ### :man_technologist: About Me :
 I'm a penultimate year Durham computer science student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="28"> from China :cn:.
 
