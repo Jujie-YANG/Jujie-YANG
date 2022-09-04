@@ -1,6 +1,6 @@
 <!-- Adding GIFs and Badges to Your GitHub Profile README -->
 <div id="header" align="center">
-  <img src="./shake_head.gif" height="130px"/>
+  <img src="./shake_head.gif" height=50%/>
 </div>
 
 <!-- Adding a Banner GIF and About Me Section -->
