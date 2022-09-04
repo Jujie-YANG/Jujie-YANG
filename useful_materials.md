@@ -28,3 +28,10 @@ Here is an excellent start-up blog to teach you [how to create an impressive Git
     - The next open-source project that provides some more GitHub stats of a user is [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats) by Anurag Hazra. This project provides many stats]; For customization details, refer to the [GitHub Readme Stats repository](https://github.com/anuraghazra/github-readme-stats).
 
     - [display the top languages of a user](https://github.com/anuraghazra/github-readme-stats)
+
+
+- [Awesome GitHub Profile README](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
+
+- [Color picker online](https://imagecolorpicker.com/color-code)
+
+- [Animated GIF Maker](https://ezgif.com/maker): Crop....
